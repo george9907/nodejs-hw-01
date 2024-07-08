@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "a5acb49b-0f04-4440-aa0a-723ebf0bce65",
+    "name": "Ms. Gwendolyn Wyman",
+    "phone": "1-404-726-1866 x77776",
+    "email": "Karianne_Blanda@gmail.com",
+    "job": "Product Paradigm Assistant"
+  },
+  {
+    "id": "6eb1ea3d-5267-44e1-821e-9069e0e77966",
+    "name": "Rodolfo Brekke",
+    "phone": "496-873-9765",
+    "email": "Virginia.Huel@yahoo.com",
+    "job": "International Web Planner"
+  }
+]
